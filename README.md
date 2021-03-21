@@ -22,6 +22,6 @@ Simulates a process queue where the integer next to the process name in the proc
 
 ## Authors
 
-Stefan Silverio
-stefansilverio@gmail.com
-[@stefansilverio](https://twitter.com/stefansilverio
+* Stefan Silverio
+* stefansilverio@gmail.com
+* https://twitter.com/stefansilverio
